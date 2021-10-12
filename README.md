@@ -1,1 +1,1 @@
-# awesomedev2
+# Git commands I should know by heart
